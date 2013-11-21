@@ -5,14 +5,14 @@
 You are given a certain number of words, that will become part of a dictionary. You then receive an encrypted word from that dictionary and you need to decrypt it. The encryption is a very basic cipher encryption, a 1 to 1 mapping between characters.
 Example:
 
-bob
-lol
-obviously
-//secret
-121 214526789 828
+>bob
+>lol
+>obviously
+>//secret
+>121 214526789 828
 
 The output of your program should be, for this example:
-121 214526789 828 = bob obviously lol
+>121 214526789 828 = bob obviously lol
 
 You have 2 hours (no really, you only have 2 hours)
 
