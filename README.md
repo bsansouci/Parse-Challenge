@@ -6,9 +6,13 @@ You are given a certain number of words, that will become part of a dictionary. 
 Example:
 
 >bob
+
 >lol
+
 >obviously
+
 >//secret
+
 >121 214526789 828
 
 The output of your program should be, for this example:
