@@ -18,7 +18,7 @@ Example:
 The output of your program should be, for this example:
 >121 214526789 828 = bob obviously lol
 
-You have 2 hours (no really, you only have 2 hours)
+You have 2 hours
 
 If you are interested, you should really try this challenge, you'll find that it's not that easy.
 Here is my solution.
